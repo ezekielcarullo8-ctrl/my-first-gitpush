@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 My First GitPush Website
 
 A clean, responsive static website project built with HTML, CSS, and JavaScript. This project is structured to track local codebase development and master version control deployment utilizing the GitHub CLI.
@@ -33,3 +34,6 @@ To explore or edit this project on your machine local directory, execute the fol
    ```
 3. **Launch the project files:**
    Open `index.html` directly inside your web browser or load it via a local live server tool.
+=======
+
+>>>>>>> ded13aed6a1f385f7011bf7d6cba8fa8fe539838
